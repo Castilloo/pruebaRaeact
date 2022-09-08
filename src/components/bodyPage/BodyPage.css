@@ -1,0 +1,17 @@
+.sections {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+}
+
+.sections div {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: silver;
+    width: 50%;
+    height: 300px;
+    border: 1px solid snow;
+}
